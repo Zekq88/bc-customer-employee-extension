@@ -1,0 +1,84 @@
+{
+  "id": "f30eba49-5210-437d-8b04-f2004ab22951",
+  "name": "test1",
+  "publisher": "DefaultS Publisher",
+  "version": "26.1.33404.34443",
+  "runtime": "15.0",
+  "application": "26.0.30643.33259",
+  "platform": "1.0.0.0",
+  "dependencies": [
+    {
+        "id": "63ca2fa4-4f03-4f2b-a480-172fef340d3f",
+        "name": "System Application",
+        "publisher": "Microsoft",
+        "version": "26.1.0.0"
+    },
+    {
+        "id": "437dbf0e-84ff-417a-965d-ed2bb9650972",
+        "name": "Base Application",
+        "publisher": "Microsoft",
+        "version": "26.1.0.0"
+    },
+    {
+        "id": "f3552374-a1f2-4356-848e-196002525837",
+        "name": "Business Foundation",
+        "publisher": "Microsoft",
+        "version": "26.1.0.0"
+    },
+    {
+        "id": "23de40a6-dfe8-4f80-80db-d70f83ce8caf",
+        "name": "Test Runner",
+        "publisher": "Microsoft",
+        "version": "26.1.0.0"
+    },
+    {
+        "id": "5d86850b-0d76-4eca-bd7b-951ad998e997",
+        "name": "Tests-TestLibraries",
+        "publisher": "Microsoft",
+        "version": "26.1.0.0"
+    },
+    {
+        "id": "75f1590f-55c5-4501-ae63-bada5534e852",
+        "name": "Performance Toolkit",
+        "publisher": "Microsoft",
+        "version": "26.1.33404.34443"
+    },
+    {
+        "id": "75f1590f-55c5-4501-ae63-bada5504e852",
+        "name": "Performance Toolkit Samples",
+        "publisher": "Microsoft",
+        "version": "26.1.33404.34443"
+    },
+    {
+        "id": "3556cc45-5df4-46aa-8162-058cb6fea4f0",
+        "name": "Performance Toolkit Tests",
+        "publisher": "Microsoft",
+        "version": "26.1.33404.34443"
+    },
+    {
+        "id": "2156302a-872f-4568-be0b-60968696f0d5",
+        "name": "AI Test Toolkit",
+        "publisher": "Microsoft",
+        "version": "26.1.0.0"
+    },{
+      "id": "dd0be2ea-f733-4d65-bb34-a28f4624fb14",
+      "name": "Library Assert",
+      "publisher": "Microsoft",
+      "version": "26.1.33404.34443"
+    }
+],
+  "idRanges": [
+    {
+      "from": 50100,
+      "to": 50149
+    }
+  ],
+  "resourceExposurePolicy": {
+    "allowDebugging": true,
+    "allowDownloadingSource": true,
+    "includeSourceInSymbolFile": true
+  },
+  "features": [
+    "NoImplicitWith"
+  ]
+}
